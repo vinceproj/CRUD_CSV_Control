@@ -1,0 +1,13 @@
+The Kite Runner,Hosseini,F,3,12.2
+Rabbit Run,John Updike,F,5,14.95
+John Adams,McCullough,N,12,16
+The Pillers of the Earth,Follett,F,11,19.95
+Atonement,McEwan,F,4,12
+The Road,McCarthy,F,3,11.95
+The Audacity of Hope,Obama,N,7,11.75
+Nudge,Thaler & Sunstein,N,12,16
+Into the Wild,Krakauer,F,7,11.25
+Harry Potter and the Deathly Hallows,J. K. Rowlings,F,100,8.24
+Outliers: The Story of Success,Malcolm Gladwell,N,30,16.79
+The Time Traveler's Wife,Audrey Niffenegger,F,20,8.22
+Olive Kitteridge,Elizabeth Strout,F,10,7.7
